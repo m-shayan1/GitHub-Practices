@@ -1,2 +1,1 @@
-print("Orders verification in progress")
-
+print("Java")
