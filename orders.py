@@ -1,1 +1,2 @@
-print("Orders Verfied")
+print("Orders verification in progress")
+
